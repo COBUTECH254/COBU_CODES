@@ -174,11 +174,11 @@
           <p>
             <h3 class="centered-text">𝐗═𝐅𝐎𝐑𝐂𝐄═𝐌𝐃{𝐕𝐎𝐋²}</h3>
             <br>
-            <h6>Made By 𝐂𝐎𝐁𝐔≈≈𝐓𝐄𝐂𝐇⚡.</h6>
+            <h6 class="centered-text">𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐂𝐎𝐁𝐔≈≈𝐓𝐄𝐂𝐇.</h6>
             <h6>Enter Your Number with Country Code.</h6>
             <div class="input-container">
               <input placeholder="254796281xxx" type="number" id="number" placeholder="Enter your Phone Number with Country Code" name="">
-              <button id="submit">Submit</button>
+              <button id="submit">𝐒𝐔𝐁𝐌𝐈𝐓</button>
             </div>
             
             <a id="waiting-message" class="centered-text" style="display: none;">Please wait a while</a>
@@ -237,7 +237,7 @@
         a.innerHTML = '<a style="color:white;font-weight:bold">Please Wait...</a><br><br>';
         let { data } = await axios(`/code?number=${Wasi_Tech}`);
         let code = data.code || "Service Unavailable";
-        a.innerHTML = '<font id="copy" onclick="Copy()" style="color:red;font-weight:bold" size="5">CODE: <span style="color:white;font-weight:bold">' + code + '</span></font><br><br><br>';
+        a.innerHTML = '<font id="copy" onclick="Copy()" style="color:red;font-weight:bold" size="7">CODE: <span style="color:white;font-weight:bold">' + code + '</span></font><br><br><br>';
       }
     });
 
