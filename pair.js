@@ -72,7 +72,7 @@ _____________________________
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 || 𝐉𝐎𝐈𝐍 𝐌𝐘 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐂𝐇𝐀𝐍𝐍𝐄𝐋➦ https://whatsapp.com/channel/0029Vadx3PxJ3juvWsDlrN11
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-|| 𝐉𝐎𝐈𝐍 𝐌𝐘 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏𝐆𝐑𝐎𝐎𝐏➦ https://chat.whatsapp.com/GoVVE2PJW9kGu7RAmlgfqQ'№
+|| 𝐉𝐎𝐈𝐍 𝐌𝐘 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏𝐆𝐑𝐎𝐎𝐏➦ https://chat.whatsapp.com/GoVVE2PJW9kGu7RAmlgfqQ
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ||𝐑𝐄𝐏𝐎➦ https://github.com/calvineonyango/COBU-TECH-FACTORY-
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
