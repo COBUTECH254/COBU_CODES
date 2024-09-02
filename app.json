@@ -1,9 +1,9 @@
 {
-    "name": "Wasi Session Generator",
-    "description": "I'm Web Session Generator by Itxx Me Wasi",
+    "name": "cobu Session Generator",
+    "description": "I'm Web Session Generator by cobu-tech",
     "logo": "",
-    "repository": "https://github.com/Giftedmaurice/giftedmdV2-session-generator",
-    "keywords": ["@Xcelsama"],
+    "repository": "https://github.com/valvineonyango/COBU-TECH-FACTORY",
+    "keywords": ["@cobutech"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
